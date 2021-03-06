@@ -2,7 +2,7 @@
  
 ## Installation....
 
-/Clone the repo to a location of your choice or download the lastest release from the sidebar.
+Clone the repo to a location of your choice or download the lastest release from the sidebar.
 
 ## Intall the following Python packages Command Prompt(cmd).
 -->pip install PyQt5
@@ -23,8 +23,8 @@
 
 ## Usage
 Overview of the GUI
+![image](https://user-images.githubusercontent.com/68680902/110206282-c764b600-7ea2-11eb-858f-b120200b8554.png)
 
-![GUI image](https://github.com/Phaugt/yt_dl/blob/main/icons/gui_1.PNG)
 
 
 
