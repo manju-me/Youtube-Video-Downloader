@@ -1,6 +1,6 @@
 ## Python Project To Download the youtube videos :computer:
  
-## Installation....
+## Installation....:arrow_down:
 
 Clone the repo to a location of your choice or download the lastest release from the sidebar.
 
