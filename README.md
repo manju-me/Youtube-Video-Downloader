@@ -4,7 +4,7 @@
 
 Clone the repo to a location of your choice or download the lastest release from the sidebar.
 
-## Intall the following Python packages on Command Prompt(cmd) or Pycharm Terminal.
+## Intall the following Python packages on Command Prompt(cmd) or Pycharm Terminal :point_down:
 
 ![image](https://user-images.githubusercontent.com/68680902/110206468-d5670680-7ea3-11eb-98b3-c7e3e7f6215a.png)
 
