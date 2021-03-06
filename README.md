@@ -1,4 +1,4 @@
-## Python Project To Download the youtube videos.
+## Python Project To Download the youtube videos :computer:
  
 ## Installation....
 
@@ -36,5 +36,5 @@ Overview of the GUI
 
 
 
-## Contributing
-Pull requests are Always welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Contributing :thumbsup:
+Pull requests are Always welcome. For major changes, please open an issue first to discuss what you would like to change :wave:.
