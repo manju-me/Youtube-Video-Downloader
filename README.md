@@ -20,14 +20,14 @@ Clone the repo to a location of your choice or download the lastest release from
 
 -->pip intsall EasySettings
 
-# Project Running Instructions
+# Project Running Instructions :pencil:
 Short cut key.
 -->Press ctrl+shift+f10
 ![image](https://user-images.githubusercontent.com/68680902/110206655-07c53380-7ea5-11eb-9744-81df70cf0604.png)
 
 
 
-## Usage
+## Usage :small_red_triangle_down:
 Overview of the GUI
 
 
